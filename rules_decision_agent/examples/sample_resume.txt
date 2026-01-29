@@ -1,0 +1,72 @@
+John Doe
+Software Engineer
+Email: john.doe@email.com
+Phone: +1-555-0123
+Location: San Francisco, CA
+LinkedIn: linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 5+ years of experience in full-stack web development, cloud architecture, and DevOps. Proven track record of building scalable applications using modern technologies. Strong expertise in Python, JavaScript, and cloud platforms (AWS, GCP). Passionate about clean code, automated testing, and continuous improvement.
+
+TECHNICAL SKILLS
+- Languages: Python, JavaScript, TypeScript, Java, SQL
+- Frontend: React, Vue.js, HTML5, CSS3, Redux
+- Backend: Django, Flask, Node.js, Express, FastAPI
+- Databases: PostgreSQL, MongoDB, Redis, MySQL
+- Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, CI/CD, Jenkins
+- Tools: Git, GitHub Actions, Terraform, Nginx
+- Testing: Jest, Pytest, Selenium, Cypress
+
+WORK EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | San Francisco, CA | Jan 2021 - Present
+- Led development of microservices architecture serving 2M+ daily active users
+- Reduced API response time by 40% through database optimization and caching strategies
+- Implemented CI/CD pipeline using GitHub Actions, reducing deployment time from 2 hours to 15 minutes
+- Mentored 3 junior developers and conducted code reviews to maintain code quality
+- Technologies: Python, Django, React, PostgreSQL, Redis, AWS, Docker
+
+Software Engineer | StartupXYZ | San Francisco, CA | Jun 2019 - Dec 2020
+- Built RESTful APIs for e-commerce platform handling 10K+ transactions daily
+- Developed responsive frontend using React and Redux, improving user engagement by 25%
+- Integrated third-party payment gateways (Stripe, PayPal) with robust error handling
+- Participated in agile ceremonies and contributed to sprint planning
+- Technologies: Node.js, Express, React, MongoDB, AWS S3
+
+Junior Developer | WebSolutions Ltd. | Remote | Jan 2018 - May 2019
+- Developed and maintained client websites using modern web technologies
+- Implemented automated testing suite, increasing test coverage from 30% to 85%
+- Collaborated with designers to create pixel-perfect responsive interfaces
+- Technologies: JavaScript, Vue.js, Python, Flask, MySQL
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley | Graduated: 2017
+Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development, Cloud Computing
+
+PROJECTS
+
+E-Commerce Analytics Dashboard
+- Built real-time analytics dashboard for tracking sales, inventory, and customer behavior
+- Processed 100K+ events per day using event-driven architecture
+- Technologies: Python, FastAPI, React, PostgreSQL, Redis, AWS Lambda
+- Result: Enabled data-driven decisions that increased sales by 15%
+
+Open Source Contribution - Django REST Framework
+- Contributed bug fixes and feature enhancements to popular open-source project
+- Improved documentation and added test coverage for new features
+- Technologies: Python, Django, REST APIs
+- Impact: 500+ stars on GitHub, used by thousands of developers
+
+Personal Finance Tracker
+- Developed full-stack web application for tracking personal expenses and budgets
+- Implemented secure authentication and data encryption
+- Technologies: React, Node.js, MongoDB, JWT
+- Result: 1000+ active users, 4.5-star rating
+
+ACHIEVEMENTS & CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate (2022)
+- Published technical blog posts with 50K+ total views
+- Speaker at local tech meetup on "Building Scalable APIs"
+- Hackathon Winner - Best Use of Cloud Technology (2020)

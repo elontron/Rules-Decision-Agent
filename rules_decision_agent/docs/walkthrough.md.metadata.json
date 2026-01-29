@@ -1,0 +1,6 @@
+{
+  "artifactType": "ARTIFACT_TYPE_WALKTHROUGH",
+  "summary": "简历问答提取功能的完整实现演练文档（中文版）。记录了所有创建的文件、功能特性、测试说明和集成要点。包含架构概述、CLI 和 API 使用示例以及验证步骤。",
+  "updatedAt": "2026-01-28T13:53:00.833541Z",
+  "version": "1"
+}

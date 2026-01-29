@@ -1,0 +1,6 @@
+{
+  "artifactType": "ARTIFACT_TYPE_TASK",
+  "summary": "简历问答提取功能实现的任务分解。包括规划、实现和测试阶段，每个阶段都有具体的子任务。",
+  "updatedAt": "2026-01-28T13:55:31.515249Z",
+  "version": "6"
+}
